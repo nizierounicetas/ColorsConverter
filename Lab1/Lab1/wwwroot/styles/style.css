@@ -1,0 +1,69 @@
+﻿body {
+    background-color: grey;
+    color: white;
+    font-family: 'Verdana';
+}
+
+.form-control {
+    border-radius: 30px;
+    font-family: 'Verdana';
+    font-variant-numeric: tabular-nums;
+}
+
+.frame_title {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.frame {
+    background-color: gray;
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 2px 2px 15px 0.4px #000000;
+}
+
+
+.input_block {
+    display: flex;
+    font-weight: 700;
+}
+.picker {
+    border-color: white;
+    border-width: 5px;
+}
+
+.row {
+    margin: 10px;
+}
+
+.row-c {
+    flex-wrap: unset;
+    align-items: center;
+}
+
+.col {
+    text-align: center;
+}
+
+.btn-info {
+    background-color: #7166e1;
+}
+
+.btn-info, .btn-info:hover {
+    color: white;
+    border-width: 3px;
+    border-color: #a19aea
+}
+
+    .btn-info:hover {
+        background-color: #4d3ee1;
+    }
+
+
+.form-group {
+    text-align: center;
+}
+
+
