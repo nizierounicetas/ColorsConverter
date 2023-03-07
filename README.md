@@ -7,5 +7,5 @@ Open cmd in the root folder and run next commands:
 - ```dotnet build``` - building project
 - ```dotnet run``` - run web-application (7033 port)
  
-## Basic demostration
+## Basic demonstration
 View hosted version (GitHub pages) - [link here](https://nizierounicetas.github.io/ColorsConverter/)
